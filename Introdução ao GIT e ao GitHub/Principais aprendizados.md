@@ -3,7 +3,7 @@
 
 ### GIT
 
-Sistema de versionamento distribuído para controle das versões de determinado código em um projeto que pode ser desenvolvido por vários programadores ao mesmo tempo.
+Sistema de versionamento distribuído para controle das versões de determinado código em um projeto. Desse modo, permite que o projeto seja desenvolvido por vários programadores ao mesmo tempo.
 
 - pode ser utilizado via GUI (Graphical User Interface) ou CLI (command-line interface);
 - SHA1 (secure hash algorithm) é um conjunto de funções criptográficas utilizado pelo GIT para representar cada arquivo;
@@ -32,8 +32,9 @@ Plataforma que serve como repositório para códigos e integra-se ao GIT.
   - resolução do conflito manualmente;
   - push da resolução para o GitHub.
 - Branch: é uma espécie de cópia do código original (default branch/main) que serve para isolar o desenvolvimento de uma feature do restante das branches de um repositório. Cada repositório tem sua branch default e pode ter múltiplas branches adicionais.
-- Quando o desenvolvimento em uma branch secundária é concluída, ela pode sofrer merge com a branch default para atualizá-lo.
+- Quando o desenvolvimento em uma branch secundária é concluído, ela pode sofrer merge com a branch default para atualizá-la.
 - Fork: é uma cópia de um repositório que você gerencia. Um *fork* permite que você altere um projeto sem afetar o repositório original. Você pode também baixar *updates* do original ou fazer uma solicitação para mandar atualizações ao repositório original por uma *pull request*. Um fork inclui todas as branches presentes no projeto no momento do fork.
+
 
 
 
