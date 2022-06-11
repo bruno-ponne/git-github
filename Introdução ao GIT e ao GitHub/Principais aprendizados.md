@@ -33,6 +33,7 @@ Plataforma que serve como repositório para códigos e integra-se ao GIT.
   - push da resolução para o GitHub.
 - Branch: é uma espécie de cópia do código original (default branch/main) que serve para isolar o desenvolvimento de uma feature do restante das branches de um repositório. Cada repositório tem sua branch default e pode ter múltiplas branches adicionais.
 - Quando o desenvolvimento em uma branch secundária é concluída, ela pode sofre merge com a branch default para atualizá-lo.
+- Fork: é uma cópia de um repositório que você gerencia. Um *fork* permite que você altere um projeto sem afestar o repositório original. Você pode também baixar *updates* do original ou fazer uma solicitação para mandar atualizações ao repositório original por uma *pull request*
 
 
 
