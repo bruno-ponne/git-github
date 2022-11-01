@@ -1,2 +1,2 @@
-# dio-challange01
-Este repositório contém o primeiro desafio do Bootcamp Santander DIO.
+
+Este repositório contém informações sobre o GIT e Github.
